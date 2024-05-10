@@ -86,7 +86,4 @@ function reset(){
     userSq=[];
     gameSeq=[];
     level=0;
-  
-    
-
 }
